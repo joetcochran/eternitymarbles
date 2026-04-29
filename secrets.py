@@ -1,5 +1,5 @@
 secrets = {
     "networks": (
-        {"ssid": "AkronMakerSpace", "password": "wemakeakron"}
+        {"ssid": "AkronMakerSpace", "password": "xxxxxxxxxxxxxxxxx"}
             )
 }
