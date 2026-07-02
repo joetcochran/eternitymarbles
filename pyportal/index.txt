@@ -20,7 +20,6 @@ fb6.bmp
 fb7.bmp
 fb8.bmp
 fb9.bmp
-fb10.bmp
 fb11.bmp
 fb12.bmp
 fb13.bmp
